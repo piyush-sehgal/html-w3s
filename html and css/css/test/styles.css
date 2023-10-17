@@ -1,0 +1,8 @@
+@font-face {
+    font-family: lor;
+    src: url("elvish\ ring\ nfi.ttf");
+}
+
+p {
+    font-family: lor;
+}
